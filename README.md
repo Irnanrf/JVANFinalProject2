@@ -1,5 +1,5 @@
 # JVANFinalProject2 - E-Commerce Project
 
-- Layouts - Devanda
-- Layout Categories - Rio
+- Layouts XML - Devanda
+- Layout Categories XML - Rio
 - Java Classes and Firebase Databases - Irnanda Rizka Fadhillah
